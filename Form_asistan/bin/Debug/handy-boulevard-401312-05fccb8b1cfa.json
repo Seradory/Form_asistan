@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "handy-boulevard-401312",
+  "private_key_id": "05fccb8b1cfa09bf393d2cbe84704e3e5bf94d35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCd1ET+7Gl9374H\npOmuBIRcmeWvwdw+1kmK+0Da/dmpOi+82twdC+n/2EImspVBciwzEB//veTXZYn8\nFXJV5s298G/dLFAnoZLxNnl3kHA/5HmE34X3HniFP2jxp/3kAgIwxbJIudSz2HAm\nKSRBEQ72W4euPBfxQIr9pCweGD5alRPyWzUxw5KgHod5WjwMVm2X65l8KFhY3lY9\nj/DdWvTL+28CpqjFOD//Qb/J7DfwVvHaDsD7vhhdIAeq06IjrWiaexHoIpaiZWcy\n39WmITpePqvXJ0pQVENNV7QB7hoA9tL0CYLy4dT+2isgeIjIfXQR3j1OVoAjhNYg\n2SfGXc8bAgMBAAECggEAGNQ5/nimp9y5Am7ZLD0drYuwbJPs2B3R+AFK1Ki2wz6a\nH/W2RwOGzm7xCTFy9ZbGiUnyHsN66r/Yk0W0dPsYRtc6YesEuRdcDIJrXXnljsec\nrmCTrKqofx3Ynpu0/1epjI6tW2+QnLJiAj7aqznJxsvjbm+ZvKRQuVJIdnuN46Xs\n9yyB9YOVgs8EEjW/r++IwyxIdpogbEXpb47ePVMvVWwvBsPQOBDSxLtJsiBQDTxv\njcrPSdr8aW7kenECy4OIyVYFFpY6kcGXaG4EpfrLWm67KhCGC/UA1Gk2/OhJgE8z\n5SFFnojPbLqy5hgrnywVVO/dyRm3YEjbwwZrqPPbMQKBgQDOYxgcNzuSHKCtJEdr\nNxXr6Wk9tEeE8P6E8snD8ZWBLmxliT4wsP7s+NDM1UitFHKDvfA/c8ejDixwfN4P\nmyCvbKvxP60Q+fEvTAe8RvNGrNLrQwcDddotOQoLx8x2HOaq0MCD/QL8dHiRcG2X\nB+tSVNG6tcYg0QQK+LYldg2fZwKBgQDDxPVNEm3nn7xBGWLSR+/9UZ46I3y8AXdK\nFGNn3PybrSoEL8pTVU2QqjhgBlFZjqh4YkfL9KmtKoSZ+iBZXHFnEYhAYEUGVC0T\nWd9F6ta3Bu8p/PeaH0fCtr3no/naGvhdRC5b+rn/rznuShzg+7lNKoVEP3w/fWdq\neHui1QSmLQKBgG1W0k8gc87Um8sejTef111EKx0lhT5I7o5AkePc+PeXQJYKP4hM\nPMIOj4/07qvDSWfCGKWFER6xQ5nUjVB3PrmxOOZ2dZmo0L3d6bs1W2z14kgBGpYa\nuZt7vHbBQvDQHuQf8935DLvyeG2UwnphF6pmhTYFVxHLqfimCtmN0WnBAoGACzhC\nhsRDoD67X0/BJiQRUQdYdiSKhYvf9lLsz4sOvy1RdyP2CIifBWd8C6TRDLzsUtnv\nG3VONCp3pwt6xyRRK4MJuAbMbextGOrRrQQkgiDXnCRvXFnmlvY6NAhlzWY2TcIW\nlhbsigbU3x9IQGys1gtVz++Dg3AAeU2maFKlDZECgYEAs5MI3zbPfu9Iim2BF0tv\nKPqDhfDfkkY+iSEd1UGqpgcCIuV31RMwvSuEONTwgMRHXHHK4uLK1v0ImMQDxWZc\nA4p3MsuWBirNhiSb9V/j44KMuubMgX8bpCjjNCEPsGG1b5MnklpMk5dHQZr++Eik\nP0uf8hk920R7s1XLLHqi0YU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtotext@handy-boulevard-401312.iam.gserviceaccount.com",
+  "client_id": "116275208872525354785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtotext%40handy-boulevard-401312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
